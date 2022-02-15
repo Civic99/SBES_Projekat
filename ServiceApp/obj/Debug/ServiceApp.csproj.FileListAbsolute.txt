@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\SBES_Projekat\ServiceApp\bin\Debug\ServiceApp.exe
+C:\Users\HP\source\repos\SBES_Projekat\ServiceApp\bin\Debug\ServiceApp.pdb
+C:\Users\HP\source\repos\SBES_Projekat\ServiceApp\bin\Debug\Contracts.dll
+C:\Users\HP\source\repos\SBES_Projekat\ServiceApp\bin\Debug\Contracts.pdb
+C:\Users\HP\source\repos\SBES_Projekat\ServiceApp\obj\Debug\ServiceApp.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\SBES_Projekat\ServiceApp\obj\Debug\ServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SBES_Projekat\ServiceApp\obj\Debug\ServiceApp.csproj.CopyComplete
+C:\Users\HP\source\repos\SBES_Projekat\ServiceApp\obj\Debug\ServiceApp.exe
+C:\Users\HP\source\repos\SBES_Projekat\ServiceApp\obj\Debug\ServiceApp.pdb
+C:\Users\HP\source\repos\SBES_Projekat\ServiceApp\bin\Debug\Manager.dll
+C:\Users\HP\source\repos\SBES_Projekat\ServiceApp\bin\Debug\Manager.pdb

@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\SBES_Projekat\Contracts\bin\Debug\Contracts.dll
+C:\Users\HP\source\repos\SBES_Projekat\Contracts\bin\Debug\Contracts.pdb
+C:\Users\HP\source\repos\SBES_Projekat\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SBES_Projekat\Contracts\obj\Debug\Contracts.dll
+C:\Users\HP\source\repos\SBES_Projekat\Contracts\obj\Debug\Contracts.pdb
+C:\Users\HP\source\repos\SBES_Projekat\Contracts\obj\Debug\Contracts.csproj.AssemblyReference.cache
+C:\Users\igorn\Desktop\SBES_Projekat\Contracts\bin\Debug\Contracts.dll
+C:\Users\igorn\Desktop\SBES_Projekat\Contracts\bin\Debug\Contracts.pdb
+C:\Users\igorn\Desktop\SBES_Projekat\Contracts\obj\Debug\Contracts.csproj.AssemblyReference.cache
+C:\Users\igorn\Desktop\SBES_Projekat\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\igorn\Desktop\SBES_Projekat\Contracts\obj\Debug\Contracts.dll
+C:\Users\igorn\Desktop\SBES_Projekat\Contracts\obj\Debug\Contracts.pdb

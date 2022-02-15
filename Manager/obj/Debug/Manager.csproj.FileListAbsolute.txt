@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\SBES_Projekat\Manager\bin\Debug\Manager.dll
+C:\Users\HP\source\repos\SBES_Projekat\Manager\bin\Debug\Manager.pdb
+C:\Users\HP\source\repos\SBES_Projekat\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SBES_Projekat\Manager\obj\Debug\Manager.dll
+C:\Users\HP\source\repos\SBES_Projekat\Manager\obj\Debug\Manager.pdb
+C:\Users\HP\source\repos\SBES_Projekat\Manager\obj\Debug\Manager.csproj.AssemblyReference.cache
+C:\Users\igorn\Desktop\SBES_Projekat\Manager\bin\Debug\Manager.dll
+C:\Users\igorn\Desktop\SBES_Projekat\Manager\bin\Debug\Manager.pdb
+C:\Users\igorn\Desktop\SBES_Projekat\Manager\obj\Debug\Manager.csproj.AssemblyReference.cache
+C:\Users\igorn\Desktop\SBES_Projekat\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\igorn\Desktop\SBES_Projekat\Manager\obj\Debug\Manager.dll
+C:\Users\igorn\Desktop\SBES_Projekat\Manager\obj\Debug\Manager.pdb
+C:\Users\igorn\Desktop\SBES_Projekat\Manager\obj\Debug\Manager.AuditEventFile.resources
+C:\Users\igorn\Desktop\SBES_Projekat\Manager\obj\Debug\Manager.csproj.GenerateResource.cache
